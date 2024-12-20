@@ -1,9 +1,5 @@
 # escolhedor_de_coisas
 
-njkfasnklfsaf
-asf
-as
-fsa
-fsa
+Aplicativo simples para ilustrar o processo de deploy no servidor do proprio streamlit.
 
 
